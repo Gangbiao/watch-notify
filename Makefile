@@ -1,6 +1,4 @@
 CXXFLAGS=-std=c++0x -I../../src/include -I../../src
-#CXXFLAGS=-std=c++0x -I../../src/include
-#CFLAGS=-I../../src/include -I../../src
 CFLAGS=-I../../src
 all: watcher_cpp notifier_cpp
 
